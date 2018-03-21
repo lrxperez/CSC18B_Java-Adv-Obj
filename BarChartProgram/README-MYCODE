@@ -1,1 +1,2 @@
 MINE
+Note: complete EXCEPT when user does not enter value, both text fields erase and show message and focus on first textField
